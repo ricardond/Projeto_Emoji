@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(54, 52, 52);
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    gap: 10px;
+}
+
+#divEmoji{
+    border-radius: 50%;
+    padding: 10px;
+}
